@@ -1,0 +1,36 @@
+from sqlalchemy import Column, String, Float, Integer, ForeignKey, DECIMAL
+from .models import *
+
+class DeductionModel(Base):
+    __tablename__ = 'deduction'
+    
+    username = Column(String(255), ForeignKey('users.username'), primary_key=True)
+    year = Column(Integer, primary_key=True)
+    users_deduction = Column(DECIMAL(10,2))
+    monthly_income = Column(DECIMAL(10,2))
+    bonus = Column(DECIMAL(10,2))
+    other_income = Column(DECIMAL(10,2))
+    marital_status = Column(String(50))
+    num_children = Column(Integer)
+    num_parents = Column(Integer)
+    num_disabled_dependents = Column(Integer)
+    social_security = Column(DECIMAL(10,2))
+    life_insurance = Column(DECIMAL(10,2))
+    health_insurance = Column(DECIMAL(10,2))
+    parent_health_insurance = Column(DECIMAL(10,2))
+    social_enterprise = Column(DECIMAL(10,2))
+    thai_esg = Column(DECIMAL(10,2))
+    rmf = Column(DECIMAL(10,2))
+    ssf = Column(DECIMAL(10,2))
+    pvd = Column(DECIMAL(10,2))
+    gpf = Column(DECIMAL(10,2))
+    nsf = Column(DECIMAL(10,2))
+    pension_insurance = Column(DECIMAL(10,2))
+    general_donation = Column(DECIMAL(10,2))
+    education_donation = Column(DECIMAL(10,2))
+    political_donation = Column(DECIMAL(10,2))
+    easy_receipt = Column(DECIMAL(10,2))
+    secondary_tourism = Column(DECIMAL(10,2))
+    mortgage_interest = Column(DECIMAL(10,2))
+    new_house_cost = Column(DECIMAL(10,2))
+    pregnancy_expense = Column(DECIMAL(10,2))

@@ -1,0 +1,3 @@
+username,password,email,telephone_number,birthday,job,salary,risk_level
+"ohm_admin","$2b$12$KWCi2ovc.R6y/dS5AIk9BuNPD0rNkfqtvmf1OmLNd1gpWTYi3iO8W","ohm_admin@gmail.com","0918198555",2003-04-21,"Student",12000.00,5
+"admin","$2b$12$pYJhgIGcsE2bOzjr8tQIp.QIJfSOFzwaFpwdAVtMx3Xc0Oyut/pA2","thanakornrattanapornchai@gmail.com","0643259023",2001-06-14,"Student",12000.00,5

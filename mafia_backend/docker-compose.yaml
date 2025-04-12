@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  app:
+    container_name: mafia_backend_app
+    build: app/
+    ports:
+      - "4000:5000"
+    restart: always
+    command: ["python", "app_dev.py"]
+    networks:
+      - shared_network
+
+networks:
+  shared_network:
+    external: true

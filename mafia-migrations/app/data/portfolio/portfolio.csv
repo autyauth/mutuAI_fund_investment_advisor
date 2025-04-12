@@ -1,0 +1,6 @@
+username,fund_name,fund_type,gain_loss_percent,gain_loss_value,holding_units,holding_value,cost,total_profit,nav_average,present_nav,valid_units
+"ohm_admin","B-INNOTECHRMF","RMF",11.18,543.17,219.00,5402.12,4858.95,0.00,22.1870,24.6672,73.00
+"ohm_admin","B-SI-THAIESG","THAIESG",3.25,70.84,219.00,2249.28,2178.44,0.00,9.9472,10.2707,73.00
+"ohm_admin","BERMF","RMF",2.34,34.15,20.00,1492.79,1458.64,0.00,72.9320,74.6397,10.00
+"ohm_admin","BGOLDRMF","RMF",-3.15,-515.53,642.00,15836.34,16351.87,0.00,25.4702,24.6672,10.00
+"ohm_admin","MM-RMF","RMF",0.23,16.67,369.00,5782.38,5769.28,0.00,15.6349,15.6704,146.00

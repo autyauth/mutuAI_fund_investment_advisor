@@ -1,0 +1,11 @@
+fund_name,category,securities_industry,fund_type,fund_risk,dividend_policy,redemption_fee,purchase_fee,fund_expense_ratio,minimum_initial_investment,fund_registration_date,company,fund_fact,model_ml_info_path
+"BGOLDRMF","Gold","BBL","RMF","8","ไม่จ่ายปันผล",0.0,0.0,0.54,500,2010-05-19,"BBLAM","https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0116_2553.pdf",
+"B-INNOTECHRMF","Technology","BBL","RMF","7","ไม่จ่ายปันผล",0.0,0.0,1.07,500,2018-10-11,"BBLAM","https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0213_2561.pdf",
+"B-INNOTECHSSF","Technology","BBL","SSF","7","ไม่จ่ายปันผล",0.0,0.0,1.07,500,2022-04-29,"BBLAM","https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0078_2565.pdf",
+"BERMF","Equity","BBL","RMF","6","ไม่จ่ายปันผล",0.0,0.0,1.61,500,2002-11-27,"BBLAM","https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0067_2545.pdf",
+"BEQSSF","Equity","BBL","SSF","6","ไม่จ่ายปันผล",0.0,0.0,1.61,500,2020-04-10,"BBLAM","https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0124_2563.pdf",
+"B25RMF","Conservative Allocation","BBL","RMF","5","ไม่จ่ายปันผล",0.0,0.0,0.80,500,2007-11-21,"BBLAM","https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0991_2550.pdf",
+"BFLRMF","Aggressive Allocation","BBL","RMF","5","ไม่จ่ายปันผล",0.0,0.0,1.61,500,2002-11-27,"BBLAM","https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0059_2545.pdf",
+"BFRMF","Mid Term General Bond","BBL","RMF","4","ไม่จ่ายปันผล",0.0,0.0,0.32,500,2002-11-27,"BBLAM","https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0062_2545.pdf",
+"B-SI-THAIESG","Long Term General Bond","BBL","THAIESG","3","ไม่จ่ายปันผล",0.0,0.0,0.21,500,2024-04-11,"BBLAM","https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0092_2567.pdf",
+"MM-RMF","Money Market","BBL","RMF","2","ไม่จ่ายปันผล",0.0,0.0,0.21,500,2008-11-12,"BBLAM","https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0597_2551.pdf",
